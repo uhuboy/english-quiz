@@ -1,0 +1,1002 @@
+[
+  {
+    "Text": "She ____ hard to pass the exam.",
+    "Options": [ "study", "studies", "is studying", "studied" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They ____ dinner when the lights went out.",
+    "Options": [ "eat", "ate", "were eating", "are eating" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ you like to come with us?",
+    "Options": [ "Do", "Would", "Are", "Will" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I have been working here ____ three years.",
+    "Options": [ "since", "for", "in", "at" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He ____ his car washed yesterday.",
+    "Options": [ "get", "gets", "had", "has" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She is ____ to start the new job.",
+    "Options": [ "excite", "excited", "exciting", "excitement" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "This is the place ____ we met.",
+    "Options": [ "which", "that", "where", "when" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ the rain, we went for a walk.",
+    "Options": [ "Although", "Despite", "Because", "However" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "You ____ smoke in the hospital.",
+    "Options": [ "don't have to", "mustn't", "shouldn't", "might not" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I'd rather ____ at home today.",
+    "Options": [ "stay", "to stay", "staying", "stayed" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She ____ English for 10 years by next year.",
+    "Options": [ "will teach", "will be teaching", "will have been teaching", "teaches" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ you finish the report, send it to me.",
+    "Options": [ "Until", "Once", "While", "During" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He is ____ of completing the project on time.",
+    "Options": [ "confident", "confidently", "confidence", "confide" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I wish I ____ a car.",
+    "Options": [ "have", "had", "will have", "have had" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The flowers need ____ every day.",
+    "Options": [ "water", "to water", "watering", "watered" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ people know about this secret.",
+    "Options": [ "Few", "A few", "Little", "A little" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She ____ her keys in the office.",
+    "Options": [ "leave", "leaves", "left", "has left" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "The movie was so ____ that I fell asleep.",
+    "Options": [ "bored", "boring", "boredom", "bore" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ she is young, she is very wise.",
+    "Options": [ "However", "Although", "Because", "Despite" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I ____ to the gym every weekend.",
+    "Options": [ "use to go", "used to go", "am used to going", "use to going" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ her mother on the phone now.",
+    "Options": [ "is talking to", "talks to", "talked to", "was talking to" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "The bridge ____ last year.",
+    "Options": [ "builds", "was built", "is built", "has built" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He is the man ____ daughter won the prize.",
+    "Options": [ "who", "whom", "whose", "which" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ I help you with your suitcase?",
+    "Options": [ "Shall", "Will", "Do", "Are" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I have ____ time to finish this work.",
+    "Options": [ "few", "a few", "little", "a little" ],
+    "CorrectIndex": 3
+  },
+  {
+    "Text": "She ____ her breakfast before she left.",
+    "Options": [ "has had", "had had", "has", "is having" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He is ____ to pass the exam.",
+    "Options": [ "enough smart", "smart enough", "too smart", "so smart" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ you go, I will follow you.",
+    "Options": [ "Wherever", "Whatever", "Whenever", "Whoever" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She is ____ of spiders.",
+    "Options": [ "scare", "scared", "scary", "scaring" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I ____ have lunch with him tomorrow.",
+    "Options": [ "will", "am going to", "would", "shall" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The bus ____ just arrived.",
+    "Options": [ "has", "have", "is", "was" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She ____ since she was a child.",
+    "Options": [ "sings", "is singing", "has been singing", "sang" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ it is expensive, it is worth it.",
+    "Options": [ "Despite", "Although", "Because", "However" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I am ____ of hearing that story.",
+    "Options": [ "tired", "tiring", "tire", "tiredness" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He ____ very fast.",
+    "Options": [ "drive", "drives", "is drive", "driving" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "We ____ to the park yesterday.",
+    "Options": [ "walk", "walks", "walked", "walking" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She ____ a beautiful dress.",
+    "Options": [ "wears", "wear", "is wear", "wearing" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "The cake ____ delicious.",
+    "Options": [ "taste", "tastes", "is taste", "tasting" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I ____ my homework already.",
+    "Options": [ "finished", "finish", "have finished", "am finishing" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "He ____ to the teacher.",
+    "Options": [ "listen", "listens", "is listen", "listening" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ her teeth.",
+    "Options": [ "brush", "brushes", "is brush", "brushing" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The birds ____ in the tree.",
+    "Options": [ "sing", "sings", "is sing", "singing" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He ____ a book.",
+    "Options": [ "read", "reads", "is read", "reading" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ the piano.",
+    "Options": [ "play", "plays", "is play", "playing" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They ____ football.",
+    "Options": [ "play", "plays", "is play", "playing" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I ____ a student.",
+    "Options": [ "is", "am", "are", "be" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ a doctor.",
+    "Options": [ "is", "am", "are", "be" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "They ____ happy.",
+    "Options": [ "is", "am", "are", "be" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "It ____ cold today.",
+    "Options": [ "is", "am", "are", "be" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "We ____ friends.",
+    "Options": [ "is", "am", "are", "be" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "If I ____ you, I would accept the job.",
+    "Options": [ "am", "was", "were", "be" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She ____ her project by next Friday.",
+    "Options": [ "will finish", "will have finished", "finishes", "is finishing" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He ____ to the cinema after he had finished work.",
+    "Options": [ "goes", "went", "has gone", "had gone" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "Neither of the two candidates ____ qualified.",
+    "Options": [ "is", "are", "were", "have been" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "This song ____ by my favorite band.",
+    "Options": [ "writes", "wrote", "was written", "has written" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "I'd rather you ____ home now.",
+    "Options": [ "go", "went", "gone", "going" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She is ____ tired to continue working.",
+    "Options": [ "very", "too", "so", "enough" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "Hardly ____ the door when the phone rang.",
+    "Options": [ "I had opened", "had I opened", "did I open", "I opened" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ it not for his help, I would have failed.",
+    "Options": [ "If", "Had", "Were", "Would" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The house needs ____ immediately.",
+    "Options": [ "paint", "to paint", "painting", "painted" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "By the time we arrived, the train ____.",
+    "Options": [ "left", "has left", "had left", "was leaving" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She suggested ____ to the park.",
+    "Options": [ "go", "to go", "going", "goes" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "I'm looking forward to ____ you soon.",
+    "Options": [ "meet", "meeting", "met", "be meeting" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He is used to ____ up early.",
+    "Options": [ "get", "got", "getting", "gets" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "The police ____ searching for the suspect.",
+    "Options": [ "is", "are", "was", "has" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "Not only ____ late, but he also forgot his bag.",
+    "Options": [ "he was", "was he", "he did", "did he" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She advised me ____ the truth.",
+    "Options": [ "tell", "to tell", "telling", "told" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The cake tastes ____.",
+    "Options": [ "good", "well", "badly", "nicely" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "If she had known, she ____ told you.",
+    "Options": [ "will have", "would have", "would", "had" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I have ____ idea what to do.",
+    "Options": [ "a", "an", "the", "some" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He ____ his hair cut yesterday.",
+    "Options": [ "has", "had", "have", "having" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The book ____ on the table for weeks.",
+    "Options": [ "lay", "laid", "lied", "lain" ],
+    "CorrectIndex": 3
+  },
+  {
+    "Text": "She is the woman ____ son is a doctor.",
+    "Options": [ "who", "whom", "whose", "which" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "This is the best movie I ____ ever seen.",
+    "Options": [ "have", "had", "am", "was" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He acts as if he ____ the boss.",
+    "Options": [ "is", "were", "has been", "will be" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ people were present at the meeting.",
+    "Options": [ "A few", "Few", "Little", "A little" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I ____ rather stay here than go out.",
+    "Options": [ "would", "had", "should", "could" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She had the mechanic ____ her car.",
+    "Options": [ "repair", "to repair", "repaired", "repairing" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "They decided ____ the meeting until next week.",
+    "Options": [ "postpone", "postponing", "to postpone", "postponed" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "We ____ to finish the report by 5 PM.",
+    "Options": [ "must", "have", "are", "had" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ it rains, we will cancel the trip.",
+    "Options": [ "Provided", "Unless", "If", "Whether" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She is ____ intelligent that she solved it easily.",
+    "Options": [ "so", "very", "too", "such" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I prefer tea ____ coffee.",
+    "Options": [ "than", "to", "over", "rather" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The dog ____ its tail when it's happy.",
+    "Options": [ "wag", "wags", "wagging", "waged" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He is ____ to be a genius.",
+    "Options": [ "said", "says", "saying", "tell" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I remember ____ the letter yesterday.",
+    "Options": [ "mail", "to mail", "mailing", "mailed" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "He stopped ____ a rest.",
+    "Options": [ "take", "to take", "taking", "taken" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ as a nurse for ten years.",
+    "Options": [ "works", "is working", "has been working", "worked" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "The news ____ very surprising.",
+    "Options": [ "is", "are", "were", "been" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I wish I ____ speak French.",
+    "Options": [ "can", "could", "will", "may" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She was made ____ the room.",
+    "Options": [ "clean", "to clean", "cleaning", "cleaned" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They are ____ to win the competition.",
+    "Options": [ "likely", "like", "liking", "liked" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He ____ his leg in the accident.",
+    "Options": [ "broke", "breaks", "broken", "breaking" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I ____ to do it myself.",
+    "Options": [ "am able", "can", "could", "may" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She is ____ for her kindness.",
+    "Options": [ "known", "knows", "knew", "knowing" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "We ____ in this house since 2005.",
+    "Options": [ "live", "lived", "have lived", "are living" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She ____ her homework when I arrived.",
+    "Options": [ "was doing", "did", "does", "has done" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "The kids are ____ in the garden.",
+    "Options": [ "play", "plays", "playing", "played" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "It ____ that he is honest.",
+    "Options": [ "said", "is said", "says", "saying" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ never been abroad.",
+    "Options": [ "has", "have", "is", "was" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She ____ to school every day.",
+    "Options": [ "go", "goes", "going", "gone" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They ____ playing football now.",
+    "Options": [ "is", "are", "am", "be" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ you like some coffee?",
+    "Options": [ "Do", "Does", "Are", "Is" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He ____ his homework yesterday.",
+    "Options": [ "do", "does", "did", "done" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "This is ____ apple.",
+    "Options": [ "a", "an", "the", "some" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I have been here ____ 2010.",
+    "Options": [ "for", "since", "in", "at" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She is taller ____ me.",
+    "Options": [ "as", "than", "to", "then" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He ____ to the park last Sunday.",
+    "Options": [ "go", "goes", "went", "gone" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "Look! The bus ____.",
+    "Options": [ "come", "comes", "is coming", "are coming" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "They ____ finish the project by tomorrow.",
+    "Options": [ "must", "have", "are", "do" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "What is the synonym of 'Happy'?",
+    "Options": [ "Sad", "Glad", "Angry", "Tired" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "What is the opposite of 'Big'?",
+    "Options": [ "Large", "Small", "Tall", "Fat" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ are you going?",
+    "Options": [ "What", "Where", "When", "Why" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She sings ____.",
+    "Options": [ "beautiful", "beauty", "beautifully", "beautify" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "If it rains, we ____ stay home.",
+    "Options": [ "will", "would", "had", "did" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "____ you ever been to Japan?",
+    "Options": [ "Do", "Are", "Have", "Has" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "The book was written ____ Shakespeare.",
+    "Options": [ "by", "with", "from", "at" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He is good ____ playing guitar.",
+    "Options": [ "in", "on", "at", "to" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "I ____ to visit my grandmother next week.",
+    "Options": [ "plan", "planned", "planning", "plans" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "They ____ reading a book when I arrived.",
+    "Options": [ "was", "were", "are", "is" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "Choose the correct spelling.",
+    "Options": [ "recieve", "receive", "receeve", "recieive" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ do you spell this word?",
+    "Options": [ "How", "What", "Why", "Who" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He works ____ a teacher.",
+    "Options": [ "like", "as", "at", "for" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I ____ like spicy food.",
+    "Options": [ "don't", "doesn't", "isn't", "am not" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "The sky is ____ today.",
+    "Options": [ "blue", "blew", "blown", "blow" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She has ____ brothers and sisters.",
+    "Options": [ "many", "much", "little", "some" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "Please turn ____ the lights.",
+    "Options": [ "in", "on", "at", "to" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I am looking forward ____ you.",
+    "Options": [ "to see", "seeing", "to seeing", "see" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "This car is ____.",
+    "Options": [ "my", "mine", "me", "I" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He speaks English ____.",
+    "Options": [ "good", "well", "best", "better" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ is your favorite color?",
+    "Options": [ "What", "Which", "Who", "Where" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "They ____ home yet.",
+    "Options": [ "haven't arrived", "didn't arrive", "don't arrive", "weren't arriving" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I ____ TV when the phone rang.",
+    "Options": [ "watched", "was watching", "am watching", "watch" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She is ____ of dogs.",
+    "Options": [ "afraid", "frighten", "scary", "fear" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He drives ____ carefully.",
+    "Options": [ "very", "too", "much", "many" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "____ a cat on the table.",
+    "Options": [ "There is", "There are", "They are", "It is" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "We need to ____ a decision.",
+    "Options": [ "do", "make", "get", "take" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He ____ me a secret yesterday.",
+    "Options": [ "tell", "tells", "told", "telling" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "The coffee is ____ hot to drink.",
+    "Options": [ "very", "too", "so", "enough" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ to music every night.",
+    "Options": [ "listen", "listens", "listening", "listened" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I am ____ than my brother.",
+    "Options": [ "short", "shorter", "shortest", "shortly" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ of these two books is yours?",
+    "Options": [ "What", "Which", "Who", "Where" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They ____ married next month.",
+    "Options": [ "get", "got", "will get", "getting" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "He ____ his keys.",
+    "Options": [ "lost", "loses", "has lost", "lose" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "Keep ____ in the library.",
+    "Options": [ "quite", "quiet", "quits", "quit" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "It ____ all day yesterday.",
+    "Options": [ "rain", "rains", "rained", "raining" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "I will call you ____ I arrive.",
+    "Options": [ "as soon as", "while", "during", "since" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She ____ a beautiful dress.",
+    "Options": [ "wear", "wears", "wore", "worn" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "The sun ____ in the east.",
+    "Options": [ "rise", "rises", "rose", "rising" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "Can you help me ____ this box?",
+    "Options": [ "carry", "carrying", "carried", "carries" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She ____ her teeth every morning.",
+    "Options": [ "brush", "brushes", "brushed", "brushing" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They ____ to the beach last weekend.",
+    "Options": [ "go", "went", "gone", "going" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I ____ a doctor when I grow up.",
+    "Options": [ "am", "will be", "was", "have been" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ you like to join us for dinner?",
+    "Options": [ "Do", "Would", "Are", "Can" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He ____ English for three years.",
+    "Options": [ "study", "studies", "has studied", "studying" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "This is the ____ movie I have ever seen.",
+    "Options": [ "good", "better", "best", "well" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She speaks ____ than her sister.",
+    "Options": [ "loud", "louder", "loudest", "loudly" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I ____ to the radio right now.",
+    "Options": [ "listen", "listens", "am listening", "listened" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ books are mine.",
+    "Options": [ "This", "That", "These", "It" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "There ____ some water in the glass.",
+    "Options": [ "is", "are", "were", "be" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "He ____ work on Saturdays.",
+    "Options": [ "don't", "doesn't", "isn't", "am not" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ you ever eaten sushi?",
+    "Options": [ "Do", "Did", "Have", "Are" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "We ____ late for school yesterday.",
+    "Options": [ "is", "are", "was", "were" ],
+    "CorrectIndex": 3
+  },
+  {
+    "Text": "The train ____ at 8:00 AM.",
+    "Options": [ "leave", "leaves", "is leaving", "left" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He is interested ____ art.",
+    "Options": [ "in", "on", "at", "to" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She ____ her umbrella yesterday.",
+    "Options": [ "forget", "forgot", "forgotten", "forgetting" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ time is it?",
+    "Options": [ "What", "Which", "Who", "Where" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I am ____ of heights.",
+    "Options": [ "scare", "scared", "scary", "scaring" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He usually ____ to bed at 10 PM.",
+    "Options": [ "go", "goes", "went", "gone" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They ____ playing tennis at 5 PM yesterday.",
+    "Options": [ "are", "were", "was", "is" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "This cake is made ____ chocolate.",
+    "Options": [ "in", "on", "of", "at" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ you please open the door?",
+    "Options": [ "Could", "Must", "Should", "Need" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I have ____ friends in Bangkok.",
+    "Options": [ "much", "many", "little", "any" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She is ____ beautiful girl in the class.",
+    "Options": [ "more", "most", "the most", "better" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "He ____ a letter when I entered the room.",
+    "Options": [ "writes", "wrote", "was writing", "is writing" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "I ____ to the gym every Tuesday.",
+    "Options": [ "go", "goes", "went", "gone" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "The house is ____ the park.",
+    "Options": [ "next", "near", "between", "among" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ to be a nurse.",
+    "Options": [ "want", "wants", "wanting", "wanted" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "I ____ my keys. I can't find them.",
+    "Options": [ "lost", "lose", "have lost", "am losing" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "The dog ____ loudly last night.",
+    "Options": [ "bark", "barks", "barked", "barking" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "____ you have a pen?",
+    "Options": [ "Do", "Does", "Are", "Is" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "She is ____ at playing piano.",
+    "Options": [ "good", "well", "best", "better" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "We ____ a great time at the party.",
+    "Options": [ "have", "had", "has", "having" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "He ____ coffee every morning.",
+    "Options": [ "drink", "drinks", "drank", "drinking" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ car is that?",
+    "Options": [ "Who", "What", "Whose", "Which" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "I will see you ____ Monday.",
+    "Options": [ "at", "in", "on", "to" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She ____ her homework yet.",
+    "Options": [ "didn't finish", "hasn't finished", "doesn't finish", "isn't finishing" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "They ____ to buy a new house.",
+    "Options": [ "want", "wants", "wanting", "wanted" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "The store ____ at 9 PM.",
+    "Options": [ "close", "closes", "closing", "closed" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ you like some tea?",
+    "Options": [ "Do", "Are", "Would", "Have" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "I ____ never been to Europe.",
+    "Options": [ "am", "was", "have", "had" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "He ____ to the office by bus.",
+    "Options": [ "go", "goes", "went", "gone" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "She ____ her mother yesterday.",
+    "Options": [ "call", "calls", "called", "calling" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "The sun is ____ than the moon.",
+    "Options": [ "big", "bigger", "biggest", "more big" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "____ you help me with this?",
+    "Options": [ "Can", "Do", "Are", "Will" ],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "I ____ English for 2 hours.",
+    "Options": [ "study", "studied", "have studied", "am studying" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "He is ____ than his brother.",
+    "Options": [ "tall", "taller", "tallest", "more tall" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "We ____ to the beach tomorrow.",
+    "Options": [ "go", "went", "will go", "gone" ],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "She ____ her bike to school.",
+    "Options": [ "ride", "rides", "rode", "riding" ],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "It is ____ outside.",
+    "Options": [ "rain", "raining", "rainy", "rains" ],
+    "CorrectIndex": 2
+  }
+]
